@@ -1,0 +1,64 @@
+{
+ "name": "ACE Venture Labs",
+ "children": [
+  {
+   "name": "medical",
+   "children": [
+    {
+     "name": "Nico Lab",
+     "children": [
+      {"name": "Input 1", "size": 3938},
+      {"name": "Input 2", "size": 3812},
+      {"name": "Input 3", "size": 6714},
+      {"name": "Input 4", "size": 743}
+     ]
+    },
+    {
+     "name": "Labficiency",
+     "children": [
+      {"name": "Input 1", "size": 3534},
+      {"name": "Input 2", "size": 5731},
+      {"name": "Input 3", "size": 7840},
+      {"name": "Input 4", "size": 5914},
+      {"name": "Input 5", "size": 3416}
+     ]
+    },
+    {
+     "name": "ClinicaGeno",
+     "children": [
+      {"name": "Input 1", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Bussiness",
+   "children": [
+    {"name": "Storm", "size": 17010},
+    {
+	 "name": "Delph BI",
+	 "children": [
+      {"name": "Input 1", "size": 1983},
+      {"name": "Input 2", "size": 2047},
+      {"name": "Input 3", "size": 1375}
+     ]
+	},
+    {
+	 "name": "AIIR Innovations",
+	 "children": [
+      {"name": "Input 1", "size": 1983},
+      {"name": "Input 2", "size": 2047},
+      {"name": "Input 3", "size": 1375}
+     ]
+	}
+   ]
+  },
+  {
+   "name": "Big Data",
+   "children": [
+    {"name": "Metrica Sports", "size": 8833},
+    {"name": "241 Software Solutions", "size": 1732}
+   ]
+  }
+ ]
+}
